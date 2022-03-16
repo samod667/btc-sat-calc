@@ -1,3 +1,21 @@
 body {
- 
+  margin: 0;
+  background-color: orange;
+  text-align: center;
+  display: block;
+  color: white;
+}
+
+/* .container{
+  
+} */
+
+.Header{
+  margin-bottom: 40%;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
